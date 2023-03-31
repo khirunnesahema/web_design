@@ -1,0 +1,25 @@
+body {
+ display:flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+div {
+    background-color: rgb(98, 0, 255);
+    width: 200px;
+    height: 200px;
+ transition-property: all;
+    transition-duration: .5s;
+    transition-timing-function:cubic-bezier(0.19, 1, 0.22, 1);
+    transition-delay: 1s;
+   
+}
+
+div:hover {
+    border-radius: 50%;
+    background-color: hotpink;
+}
+
+
+
+ 
