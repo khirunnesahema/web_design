@@ -1,0 +1,53 @@
+/*p{
+font-size: 20px;
+font-weight:900;
+color: rgb(3, 5, 26);
+font-style:italic;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}*/
+
+
+.btn{
+    background-color:red;
+    border-radius: 20px;
+    color: white;
+    padding: 10%;
+}
+
+.btn:hover{
+    background-color: green !important;
+}
+.btn{
+    background-color:rgb(19, 17, 17);
+    border-radius: 20px;
+    color: white;
+    padding: 10%;
+}
+.btn{
+    background-color:rgb(76, 0, 255) !important;
+    border-radius: 20px;
+    color: white;
+    padding: 10%;
+}
+
+p{
+    line-height: 200%;
+    margin: 30px;
+} 
+
+button{
+    margin: 20%;
+    padding: 50px 10px 100px 20px;
+}
+
+P{
+    width: 300px;
+    height: auto;
+    overflow:scroll;
+}
+
+.My-position{
+    color:red;
+    
+
+}
