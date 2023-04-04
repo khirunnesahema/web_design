@@ -1,0 +1,24 @@
+/*div{
+    width: 150px;
+    border: 1px solid re;
+}
+
+ div.a{
+    word-wrap:normal;
+}
+div.b{
+word-wrap:break-word;
+}
+
+p{
+    text-decoration:overline underline line-through;
+}*/
+
+:root{
+    --colorprimary:#22ff;
+    --fontprimary:20px;
+}
+p{
+    color: var(--colorprimary);
+    font-size:var(--fontprimary) ;
+}
