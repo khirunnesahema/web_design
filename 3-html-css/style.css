@@ -1,0 +1,36 @@
+
+
+
+body{
+    font-family: 'Dancing Script', cursive;
+
+}
+
+
+
+
+h1{
+    font-size: 20px;color:rgb(255, 0, 43) ;
+        }
+        
+        p{
+          
+        }
+    
+        button{
+            padding: 10px;
+            background-color: black;
+            color: aliceblue;
+            text-transform: uppercase;
+        }
+
+
+        #first-para{
+            color: blue;
+        }
+        .para{
+            color: brown;
+        }
+
+
+    color: blue;
